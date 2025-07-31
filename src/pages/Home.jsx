@@ -7,13 +7,13 @@ export default function Home() {
           Acompanhe Frodo Bolseiro em sua jornada para destruir o Um Anel e salvar a Terra Média.
         </p>
         <div className="propaganda">
-          <strong>Uma aventura inesquecível começa aqui.</strong>
+          Uma aventura inesquecível começa aqui.
           <br />
           <a
             href="public/livro.pdf"
             target="_blank"
             rel="noopener noreferrer"
-            className="pdf-link" 
+            className="pdf-link"
           >
             📖 Clique aqui para ler o livro em PDF
           </a>
