@@ -7,7 +7,7 @@ export default function Colega() {
         </p>
         <h2>Miguel Sacardo</h2>
         <p>
-          Kevin é apaixonado por tecnologia, gosta de programar e colaborar em
+          Miguel é apaixonado por tecnologia, gosta de programar e colaborar em
           projetos criativos. Ele tem interesse por inteligência artificial e jogos,
           e sempre contribui com boas ideias em equipe.
         </p>
